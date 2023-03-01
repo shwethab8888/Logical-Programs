@@ -6,7 +6,9 @@
         {
             //Console.WriteLine("Welcomr to logical programs");
             // FibbonacciSeries.Fibbonacci_Series();
-            PerfectNumber.Perfect_Number();
+            // PerfectNumber.Perfect_Number();
+            PrimeNumber.Primee_Number();
+
 
 
         }
